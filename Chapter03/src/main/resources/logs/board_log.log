@@ -1,0 +1,10 @@
+$d{yyyy:MM:dd HH:mm:ss.SSS} WARN  --- [main] com.rubypaper.LoggingRunner : WARN 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} ERROR --- [main] com.rubypaper.LoggingRunner : ERROR 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} WARN  --- [main] com.rubypaper.LoggingRunner : WARN 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} ERROR --- [main] com.rubypaper.LoggingRunner : ERROR 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} WARN  --- [main] com.rubypaper.LoggingRunner : WARN 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} ERROR --- [main] com.rubypaper.LoggingRunner : ERROR 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} WARN  --- [main] com.rubypaper.LoggingRunner : WARN 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} ERROR --- [main] com.rubypaper.LoggingRunner : ERROR 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} WARN  --- [main] com.rubypaper.LoggingRunner : WARN 로그 메시지 
+$d{yyyy:MM:dd HH:mm:ss.SSS} ERROR --- [main] com.rubypaper.LoggingRunner : ERROR 로그 메시지 
