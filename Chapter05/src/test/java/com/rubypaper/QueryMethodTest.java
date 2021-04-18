@@ -20,13 +20,13 @@ import com.rubypaper.persistence.BoardRepository;
 public class QueryMethodTest {
 	@Autowired
 	private BoardRepository boardRepo;
-	/*
+
 	@BeforeEach
 	public void dataPrepare() {
 		for (int i = 1; i <= 200; i++) {
 			Board board = new Board();
 			board.setTitle("테스트 제목 " + i);
-			board.setWriter("테스터");
+			// board.setWriter("테스터");
 			board.setContent("테스트 내용 " + i);
 			board.setCreateDate(new Date());
 			board.setCnt(0L);
@@ -43,8 +43,7 @@ public class QueryMethodTest {
 			System.out.println("---> " + board.toString());
 		}
 	}
-	*/
-	/*
+
 	@Test
 	public void testByContentContaining() {
 		List<Board> boardList = boardRepo.findByContentContaining("17");
@@ -54,8 +53,7 @@ public class QueryMethodTest {
 			System.out.println("---> " + board.toString());
 		}
 	}
-	*/
-	/*
+
 	@Test
 	public void testFindByTitleContainingOrContentContaining() {
 		List<Board> boardList = boardRepo.findByTitleContainingOrContentContaining("17", "17");
@@ -65,8 +63,7 @@ public class QueryMethodTest {
 			System.out.println("---> " + board.toString());
 		}
 	}
-	*/
-	/*
+
 	@Test
 	public void testFindByTitleContainingOrderBySeqDesc() {
 		List<Board> boardList = boardRepo.findByTitleContainingOrderBySeqDesc("17");
@@ -76,7 +73,7 @@ public class QueryMethodTest {
 			System.out.println("---> " + board.toString());
 		}
 	}
-	*/
+
 	@Test
 	public void testFindByTitleContaining() {
 		// Pageable paging = PageRequest.of(0, 5);
