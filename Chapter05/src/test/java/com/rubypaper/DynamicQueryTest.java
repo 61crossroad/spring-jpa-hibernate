@@ -17,7 +17,7 @@ import com.rubypaper.persistence.DynamicBoardRepository;
 @SpringBootTest
 public class DynamicQueryTest {
 	@Autowired
-	private DynamicBoardRepository boardRepo;
+	private DynamicBoardRepository boardRepository;
 	
 	@Test
 	public void testDynamicQuery() {
@@ -36,7 +36,7 @@ public class DynamicQueryTest {
 		
 		Pageable paging = PageRequest.of(0, 5);
 		
-		Page<Board> boardList = boardRepo.findAll(builder, paging);
+		Page<Board> boardList = boardRepository.findAll(builder, paging);
 		
 		System.out.println("검색 결과");
 		for (Board board : boardList) {
