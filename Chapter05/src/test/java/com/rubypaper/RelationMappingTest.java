@@ -21,7 +21,6 @@ public class RelationMappingTest {
 	@Autowired
 	private MemberRepository memberRepo;
 	
-	/*
 	@Test
 	public void testManyToOneInsert() {
 		Member member1 = new Member();
@@ -84,8 +83,7 @@ public class RelationMappingTest {
 			System.out.println(board.toString());
 		}
 	}
-	*/
-	
+
 	@Test
 	public void testCascadeDelete() {
 		memberRepo.deleteById("member2");

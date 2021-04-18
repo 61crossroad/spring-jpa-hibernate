@@ -27,5 +27,5 @@ public class Member {
 	private String role;
 	
 	@OneToMany(mappedBy="member", fetch=FetchType.EAGER, cascade=CascadeType.ALL)
-	private List<Board> boardList = new ArrayList<Board>();
+	private List<Board> boardList = new ArrayList<>();
 }
