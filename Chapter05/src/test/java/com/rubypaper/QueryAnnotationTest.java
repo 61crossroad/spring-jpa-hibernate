@@ -18,7 +18,6 @@ public class QueryAnnotationTest {
 	@Autowired
 	private BoardRepository boardRepo;
 	
-	/*
 	@Test
 	public void testQueryAnnotationTest1() {
 		List<Board> boardList = boardRepo.queryAnnotationTest1("테스트 제목 10");
@@ -59,5 +58,4 @@ public class QueryAnnotationTest {
 			System.out.println("---> " + board.toString());
 		}
 	}
-	*/
 }

@@ -1,0 +1,63 @@
+2021-01-29 21:09:44.129  INFO 52782 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-01-29 21:09:44.130  INFO 52782 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-29 21:09:44.130  INFO 52782 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-29 21:09:44.136  INFO 52782 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-29 21:09:44.136  INFO 52782 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 155 ms
+2021-01-29 21:09:44.176  INFO 52782 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:09:44.217  INFO 52782 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-01-29 21:09:44.225  INFO 52782 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-29 21:09:44.229  WARN 52782 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2021-01-29 21:09:44.229 ERROR 52782 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2021-01-29 21:09:44.230  INFO 52782 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-01-29 21:09:49.655  INFO 52782 --- [Thread-14] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:09:49.882  INFO 52782 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-01-29 21:09:49.883  INFO 52782 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-29 21:09:49.883  INFO 52782 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-29 21:09:49.888  INFO 52782 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-29 21:09:49.888  INFO 52782 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 129 ms
+2021-01-29 21:09:49.917  INFO 52782 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:09:49.944  INFO 52782 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-01-29 21:09:49.951  INFO 52782 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-29 21:09:49.955  WARN 52782 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2021-01-29 21:09:49.955 ERROR 52782 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2021-01-29 21:09:49.956  INFO 52782 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-01-29 21:09:58.723  INFO 52782 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-01-29 21:09:58.737  INFO 52782 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:10:04.305  INFO 52889 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-01-29 21:10:04.307  INFO 52889 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-01-29 21:10:04.974  INFO 52889 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-01-29 21:10:04.984  INFO 52889 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-29 21:10:04.984  INFO 52889 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-29 21:10:05.024  INFO 52889 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-29 21:10:05.024  INFO 52889 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 716 ms
+2021-01-29 21:10:05.173  INFO 52889 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:10:05.304  INFO 52889 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-01-29 21:10:05.345  INFO 52889 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-29 21:10:05.356  WARN 52889 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2021-01-29 21:10:05.356 ERROR 52889 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2021-01-29 21:10:09.749  INFO 52889 --- [Thread-6] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:10:10.017  INFO 52889 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-01-29 21:10:10.019  INFO 52889 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-29 21:10:10.019  INFO 52889 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-29 21:10:10.024  INFO 52889 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-29 21:10:10.024  INFO 52889 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 169 ms
+2021-01-29 21:10:10.066  INFO 52889 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:10:10.104  INFO 52889 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-01-29 21:10:10.116  INFO 52889 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-29 21:10:10.120  WARN 52889 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2021-01-29 21:10:10.121 ERROR 52889 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2021-01-29 21:10:10.122  INFO 52889 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-01-29 21:10:16.563  INFO 52889 --- [Thread-9] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:10:16.810  INFO 52889 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-01-29 21:10:16.812  INFO 52889 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-29 21:10:16.812  INFO 52889 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-29 21:10:16.818  INFO 52889 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-29 21:10:16.818  INFO 52889 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 145 ms
+2021-01-29 21:10:16.858  INFO 52889 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-29 21:10:16.897  INFO 52889 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-01-29 21:10:16.906  INFO 52889 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-01-29 21:10:16.910  WARN 52889 --- [restartedMain] com.rubypaper.LoggingRunner              : WARN 로그 메시지
+2021-01-29 21:10:16.911 ERROR 52889 --- [restartedMain] com.rubypaper.LoggingRunner              : ERROR 로그 메시지
+2021-01-29 21:10:16.912  INFO 52889 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-01-29 21:10:20.580  INFO 52889 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-01-29 21:10:20.596  INFO 52889 --- [RMI TCP Connection(2)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
